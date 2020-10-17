@@ -40,6 +40,7 @@ defusedxml==0.6.0
 diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
 distributed @ file:///C:/ci/distributed_1594742844291/work
 Django==3.0.10
+django-bootstrap4
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
